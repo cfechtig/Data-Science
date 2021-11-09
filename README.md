@@ -1,7 +1,7 @@
 # Data-Science
 
 ### FOR VIEWING HTML FILES:
-prepend this url --> https://htmlpreview.github.io/?
+prepend this url --> https://htmlpreview.github.io/
 to the beginning of the HTML file github url
 
 Example:
